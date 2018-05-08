@@ -30,6 +30,8 @@ class BITAppDelegate: UIResponder, UIApplicationDelegate,BITHockeyManagerDelegat
         
         BITHockeyManager.shared().start()
 
+        print("One two three four five")
+        
         if didCrashInLastSessionOnStartup() {
             waitingUI()
         } else {
