@@ -5,3 +5,5 @@ If you want to integrate HockeySDK-iOS with Objective-C, you could refer to [Hoc
 
 # License
 `HockeySDK-iOSDemo-Swift` is available under the `MIT` license. See the `LICENSE` file for more info.
+
+================
